@@ -1,4 +1,4 @@
-# Meu Projeto de Machine Learning 🤖
+# Projeto de Machine Learning
 
 Este projeto compara o desempenho de um modelo Random Forest antes e depois do tuning usando GridSearchCV.
 
